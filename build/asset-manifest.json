@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/COMP3170-class02/static/css/main.4af5dfde.css",
+    "main.js": "/COMP3170-class02/static/js/main.d080d3e0.js",
+    "index.html": "/COMP3170-class02/index.html",
+    "main.4af5dfde.css.map": "/COMP3170-class02/static/css/main.4af5dfde.css.map",
+    "main.d080d3e0.js.map": "/COMP3170-class02/static/js/main.d080d3e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4af5dfde.css",
+    "static/js/main.d080d3e0.js"
+  ]
+}
